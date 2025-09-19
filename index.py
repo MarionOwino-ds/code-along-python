@@ -28,3 +28,31 @@ print ("total tokens:", total_tokens)
 print ("total cost:", total_cost)
 #    - games available
 print ("games available:", games_available)
+
+
+
+
+if number_of_passes>5:
+    print ("kindly get more passes ")
+
+else :
+    print ("you are good to go")
+
+#drinks available in the arcade 
+drink_1 =cocacola
+drink_2= pepsi
+drink_3 = fanta 
+drink_4 = mirinda 
+
+
+
+#there is san error due  to  undefined variables 
+#drinks section 
+purchase_drink=str( input("what drink would you like to have?"))
+if purchase_drink:= drink_1
+ 
+ print("please request for another as it is not available")
+
+else:
+   print ("great choice")
+                   
